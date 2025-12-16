@@ -1,5 +1,9 @@
 ## Hello world 👋
 
+Data Analyst with experience in quantitative analysis, information processing and management, and clear reporting with Power BI and RMarkdown. I enjoy working with data 😸: cleaning, organizing, and transforming it into useful insights :computer:. I am proficient in programming and analytical tools, with experience in technical documentation, validation, and data traceability. I am accustomed to gathering requirements, detecting inefficiencies, and improving processes through data-driven solutions. 
+I combine technical precision with analytical thinking and a focus on continuous learning :seedling:.
+
+
 
 <!--
 **Mar-boo/Mar-boo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
